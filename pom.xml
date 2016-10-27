@@ -61,18 +61,6 @@
         <url>https://github.com/Libresonic/libresonic.git</url>
     </scm>
 
-<!--    <ciManagement>
-        <system>continuum</system>
-        <notifiers>
-            <notifier>
-                <type>mail</type>
-                <configuration>
-                    <address>sindre@activeobjects.no</address>
-                </configuration>
-            </notifier>
-        </notifiers>
-    </ciManagement> -->
-
     <developers>
         <developer>
             <name>Eugene E. Kashpureff Jr</name>
